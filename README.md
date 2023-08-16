@@ -1,9 +1,4 @@
 - 👋 Hi there
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm a Safety, Occupational Health & Data Analytics
 
-<!---
-Bazoca007V/Bazoca007V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📊 🖥 I have knowledge in Python, Script and looker studio for data analysis. Also in personal projects derived from graphic design. Therefore, I will show in this portfolio some of the activities carried out.
